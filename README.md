@@ -1,4 +1,4 @@
 # sumon_demo
 This is my first repository.
 <br/>
-Author - Sumon (rayhan)
+Author - Sumon rayhan
